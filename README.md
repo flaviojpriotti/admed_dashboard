@@ -1,1 +1,1 @@
-# Admed Panel
+# Tizapp Dashboard
